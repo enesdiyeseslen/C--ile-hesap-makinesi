@@ -1,0 +1,10 @@
+D:\görsel proglamlama\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe.config
+D:\görsel proglamlama\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe
+D:\görsel proglamlama\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.pdb
+D:\görsel proglamlama\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.AssemblyReference.cache
+D:\görsel proglamlama\hesap makinesi\hesap makinesi\obj\Debug\hesap_makinesi.Form1.resources
+D:\görsel proglamlama\hesap makinesi\hesap makinesi\obj\Debug\hesap_makinesi.Properties.Resources.resources
+D:\görsel proglamlama\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.GenerateResource.cache
+D:\görsel proglamlama\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.CoreCompileInputs.cache
+D:\görsel proglamlama\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.exe
+D:\görsel proglamlama\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.pdb
